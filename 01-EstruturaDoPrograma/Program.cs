@@ -7,7 +7,7 @@ namespace EstruturaDoPrograma
     {
         static void Main()
         {
-            var s = new Pilha();
+            Pilha s = new Pilha();
             s.Empilha(1);
             s.Empilha(10);
             s.Empilha(100);

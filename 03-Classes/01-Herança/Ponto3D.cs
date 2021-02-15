@@ -11,6 +11,7 @@ namespace Classes.Herança
 
         public static void Calcular()
         {
+            
             //Faz alguma coisa...
         }
         public override void CalcularDistancia3()
